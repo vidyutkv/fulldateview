@@ -32,3 +32,6 @@ Then activate with jQuery like so:
 ## Note
 
 Default date format accepet of chrome else Date Format: yy-mm-dd 
+Exp:
+Input: 15/06/24
+Output: Wednesday June 24, 2015
